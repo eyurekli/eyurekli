@@ -1,4 +1,4 @@
-<h2 align="center"> &nbsp; Hi there, I'm <span>Ekin</span>!</h2>
+<h1 align="center"> &nbsp; Hi there, I'm <span>Ekin</span>! ☀</h2>
 
 ## ☕️ About Me!
 - I’m a 2nd CS student at Dalhousie University.
