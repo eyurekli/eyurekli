@@ -1,9 +1,9 @@
 <h1 align="center"> &nbsp; Hi there, I'm <span>Ekin</span>! ☀</h2>
 
 ## ☕️ About Me!
-- I’m a 2nd CS student at Dalhousie University.
+- I’m a 3rd year CS student at Dalhousie University.
 - I'm originally from Turkey. I have been in Canada for almost 4 years.
-- I'm looking for Co-Op/Internship opportunities for Summer 2025.
+- I'm currently working with Trench Group in Toronto, as AI/ML Intern, for Summer & Fall 2025.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekiny)
