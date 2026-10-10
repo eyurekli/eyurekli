@@ -1,9 +1,9 @@
 <h1 align="center"> &nbsp; Hi there, I'm <span>Ekin</span>! ☀</h2>
 
 ## ☕️ About Me!
-- I’m a 3rd year CS student at Dalhousie University.
+- I’m a 4th year CS student at Dalhousie University.
 - I'm originally from Turkey. I have been in Canada for almost 4 years.
-- I'm currently working with Royal Bank of Canada, as a Data Engineer in the Amplify program, for Summer 2026.
+- I previously worked with Royal Bank of Canada, as a Data Engineer in the Amplify program, for Summer 2026.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekiny)
